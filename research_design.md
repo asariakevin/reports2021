@@ -22,12 +22,22 @@ curriculum and issuance of the national examinations.We choose open ended questi
 so....
 
 How will this data be collected and analysed ?
+We will record these interview using a digital audio recorder and the audio
+will be backed up in our cloud storage platform for redudancy. The digital audio
+recordings will enable us to not only revisit the interviews to gain more insight
+but its form enables us to share the copy within ourselves with ease. We will
+use the Trint trancription software to perform intelligent verbatim transcription
+inorder to collect and prepare our data for analysis. For data analysis we plan
+to use thematic analysis as our data is qualitative in nature and this technique
+enables us to closely examine the data to identify common patterns of meaning that
+come out repeatedly.
+
 
 
 //whether it will increase
 In order to determine the level of school dropout rate whereby our target 
 population is total primary and secondary school population in the territory
-of Kenya we will perform a multi-stage clustering sampling. (should we include
+of Kenya we will perform multi-stage clustering sampling. (should we include
 a reason why we chose this method of sampling?). We will first cluster counties
 in terms of their economic output grouping them into 5 . From those clusters in
 each we will randomly choose(ongezea mambo ya random numbers) 3 counties. In each
