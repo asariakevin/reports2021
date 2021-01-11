@@ -36,20 +36,44 @@ come out repeatedly.
 
 //whether it will increase
 In order to determine the level of school dropout rate whereby our target 
-population is total primary and secondary school population in the territory
-of Kenya we will perform multi-stage clustering sampling. (should we include
-a reason why we chose this method of sampling?). We will first cluster counties
-in terms of their economic output grouping them into 5 . From those clusters in
-each we will randomly choose(ongezea mambo ya random numbers) 3 counties. In each
+population is the total primary and secondary school student population in the territory
+of Kenya we will perform multi-stage clustering sampling.We chose to use
+this method as our population is widely geographically dispersed and this
+method is the only one that could be both time and cost effective.
+We will first cluster counties in terms of their economic output grouping them into 5 . From those clusters,in
+each we will randomly choose 3 counties. In each
 of those three counties we will list their subcounties in alphabetically order and
 randomly choose 3 subcounties. Furthermore , in each of these subcounties we will
 list in alphabetical order both primary and secondary schools and randomly select
 5 from each list.
 
 To collect data , we will conduct over the phone interviews with the heads of
-these schools and ask them the following questions. What were the number of their
+these schools and ask them  close ended questions.We chose to conduct our
+interviews over the phone as it will be cost effective because our samples
+are widely geographically dispersed and the phone  and network penetration rate
+is high in the territory of Kenya.The following questions will be asked, what were the number of their
 student population before schools were closed and what were the number of their
-student population a month after the schools we reopened.
+student population a month after the schools we reopened.These two questions will
+enable us to compute the dropout level at each school which we consider to be
+the difference between the previous student population and the student population
+after schools are reopened. In addition, we chose to conduct our survey roughly one month
+after the schools are reopened since at that time we estimate that the student population
+will have settled.
+
+We plan to collect this data in an excel sheet and use the python programming
+language to do our data analysis.
 //how will we collect that data and analysis methods that we will use
 
-To collect data on the
+To collect data on the participation level of students and teachers in distance
+learning activities during the school closure period , we will ask the participants
+both close ended and open ended questions. We will produce a questionaiire which
+we will print them and use the postal service to reach the targetted schools.
+
+The questions that the students will answer will include, whether they participated
+in any form of learning during the lockdown period, how many days did they participate,
+what kind of learning did they participate in whether it was online, self paced or using
+other media devices. Moreover, whether there school offered any type of distance 
+learning and if so what type was it. We also ask them what challenges they faced
+will participating in distance learning. 
+
+We will analyse this data using the python programming language data analysis tools
